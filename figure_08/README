@@ -1,0 +1,9 @@
+In 'figure_08.m', on line 54, the second order Sobol index are estimated using the PCE subroutine.
+This PCE-based result has been stored in file 'PECresult.mat'. 
+The PCE subroutine is used from UQ_lab toolbox
+You may download it for free from the following website:
+http://www.uqlab.com
+
+The code producing PCE result is provied in file 'figure_08_PCE.m'.
+
+
